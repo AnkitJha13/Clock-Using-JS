@@ -15,7 +15,7 @@ To run this clock application, you need a modern web browser that supports HTML5
 - The clock updates in real-time, so you will see the time changing continuously.
 
 ## Customization
-- You can customize the appearance of the clock by modifying the CSS code in the styles.css file.
+- You can customize the appearance of the clock by modifying the CSS code in the index.css file.
 
 - For example, you can change the font style, color, or size of the clock digits. You can also adjust the background color or add additional styling to suit your preferences.
 
