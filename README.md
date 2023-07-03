@@ -19,9 +19,6 @@ To run this clock application, you need a modern web browser that supports HTML5
 
 - For example, you can change the font style, color, or size of the clock digits. You can also adjust the background color or add additional styling to suit your preferences.
 
-## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request on GitHub.
-
 ## Acknowledgments
 This clock application is based on the concepts of HTML, CSS, and JavaScript. It was created as a learning exercise and can be used as a starting point for building more complex applications.
 
