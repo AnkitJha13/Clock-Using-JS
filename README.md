@@ -25,5 +25,5 @@ This clock application is based on the concepts of HTML, CSS, and JavaScript. It
 ## Contact
 If you have any questions or suggestions, feel free to reach out to the me .
 
-Name: ANKIT KUMAR JHA
-Email: ankitjha1403@gmail.com Thank you for using the Clock application!
+- Name: ANKIT KUMAR JHA
+- Email: ankitjha1403@gmail.com Thank you for using the Clock application!
