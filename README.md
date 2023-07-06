@@ -23,6 +23,7 @@ To run this clock application, you need a modern web browser that supports HTML5
 This clock application is based on the concepts of HTML, CSS, and JavaScript. It was created as a learning exercise and can be used as a starting point for building more complex applications.
 
 ## Contact
-If you have any questions or need further assistance, you can reach me at ankitjha1403@gmail.com.
+If you have any questions or suggestions, feel free to reach out to the me .
 
-Thank you for using the Clock application!
+Name: ANKIT KUMAR JHA
+Email: ankitjha1403@gmail.com Thank you for using the Clock application!
