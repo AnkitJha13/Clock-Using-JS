@@ -14,6 +14,9 @@ To run this clock application, you need a modern web browser that supports HTML5
 
 - The clock updates in real-time, so you will see the time changing continuously.
 
+# Website Link
+You can access the Todo List Web Application by following this link: [Clock Using JS](https://ankitjha13.github.io/Clock-Using-JS/)
+
 ## Customization
 - You can customize the appearance of the clock by modifying the CSS code in the index.css file.
 
