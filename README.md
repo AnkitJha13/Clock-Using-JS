@@ -17,6 +17,9 @@ To run this clock application, you need a modern web browser that supports HTML5
 # Website Link
 You can access the Clock Application by following this link: [Clock Using JS](https://ankitjha13.github.io/Clock-Using-JS/)
 
+## ScreenShot
+![1](https://github.com/AnkitJha13/Clock-Using-JS/assets/116744896/74c79c2b-58f5-42f4-8e8a-67b84b62f5cb)
+
 ## Customization
 - You can customize the appearance of the clock by modifying the CSS code in the index.css file.
 
